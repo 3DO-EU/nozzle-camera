@@ -28,10 +28,13 @@ For streaming, we recommend using [mainsail](https://github.com/mainsail-crew/ma
 
 ## FAQ
 - Does it work in an enclosed printer?
+
 Yes, tho our camera is rated at 60C we have been running it for 48hrs in a 70C industrial heat chamber without any issues.
 - Why is FPC so long?
+
 We decided on having 25cm between the camera and PCB for more flexibility on future mount designs.
 -  Can I bend/fold the FPC to make it shorter?
+
 Yes, FPC is flexible and can be bent, if you want to fold it (180deg) we recommend doing this max one time in the same spot, or else you risk braking the lanes inside FPC.
 
 ## Contributors that made this project possible
