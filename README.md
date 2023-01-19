@@ -10,7 +10,7 @@ We ended up making this.
 -	Two versions having different price points (IMX258 and OV5648)
 IMX258 can do 60FPS@1080P and are therefore optimal for fast printing, whereas OV5648 can do 30FPS@1080p.
 
-(Camera Picture)
+<img src="./images/KIT.jpg "  width="50%">
 
 |                         | 4K (Sony IMX258)     | FHD (OV5648)  |
 |-------------------------|----------------------|---------------|
