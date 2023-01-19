@@ -65,5 +65,12 @@ Beta Testers
 -	Joao Barros (From RatRig Comunnity)
 
 ## Where to buy
-EU [3DO](https://3do.eu/)
-USA [Fabreeko](https://www.fabreeko.com/)
+EU
+
+[![3DO](https://3do.eu/img/logo-1645171273.jpg)](https://3do.eu/)
+
+USA 
+
+
+[![Fabreeko](https://cdn.shopify.com/s/files/1/0266/5001/7990/files/Fabreeko_Logo_ecf1536e-3074-4a0e-9306-87ca89f1abbd_320x.png)](https://www.fabreeko.com/)
+[![KB3D](https://kb-3d.com/store/img/kb-3d-logo-1673465361.jpg)](https://kb-3d.com/)
