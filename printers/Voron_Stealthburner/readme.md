@@ -1,3 +1,12 @@
+# Files for common hotends
+- Cam_mount_SB
+- PCB_mount_SB
+
+# Files for extended hotends
+- Cam_mount_SB-Magnum_plus-UHF
+- PCB_mount_SB_Magnum_plus-UHF
+
+
 # Pictures
 ![plot](./images/render1.png)
 ![plot](./images/render2.png)
