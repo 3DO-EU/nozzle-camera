@@ -7,9 +7,8 @@
 - PCB_mount_SB_Magnum_plus-UHF
 
 
-# Pictures
-![plot](./images/render1.png)
-![plot](./images/render2.png)
+# Picture
+<img src="./images/SB_UHF.jpg "  width="50%">
 
 # FPC Routing internal
 Camera PCB can be mounted in front of the extruder using VHB tape. (Only tested with LGX Lite extruder)
