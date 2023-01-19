@@ -2,7 +2,7 @@
 - Cam_mount_SB
 - PCB_mount_SB
 
-# Files for extended hotends
+# Files for extended hotends (Rapido UHF / Mosquito Magnum Plus /..)
 - Cam_mount_SB-Magnum_plus-UHF
 - PCB_mount_SB_Magnum_plus-UHF
 
