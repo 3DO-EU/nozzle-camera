@@ -39,6 +39,7 @@ Yes, FPC is flexible and can be bent, if you want to fold it (180deg) we recomme
 
 Example of folding FPC
 ![plot](./images/FPC_BEND.jpg | width=100)
+<img src="./images/FPC_BEND.jpg "  width="60%" height="30%">
 
 ## Contributors that made this project possible
 CAD Design & Testing
