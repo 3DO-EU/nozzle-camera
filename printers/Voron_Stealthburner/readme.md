@@ -11,10 +11,6 @@
 ![plot](./images/render1.png)
 ![plot](./images/render2.png)
 
-# Video
-[![3DO Nozzle Camera teaser](https://img.youtube.com/vi/BjG8rhLlGIU/0.jpg)](https://www.youtube.com/watch?v=BjG8rhLlGIU)
-
-
 # FPC Routing internal
 Camera PCB can be mounted in front of the extruder using VHB tape. (Only tested with LGX Lite extruder)
 
