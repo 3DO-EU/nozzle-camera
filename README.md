@@ -8,7 +8,7 @@ We ended up making this.
 -	Custom FEP+Silicone USB cable, as we couldn’t find any high temp flexible USB cables on the market.
 -	Custom SK6812 WWCW LED, we wanted as much light as possible while keeping the SK6812 protocol, therefore we ended up making our LEDs similar to RGBW just with only white diodes inside.
 -	Two versions having different price points (IMX258 and OV5648)
-IMX258 can do 60FPS@1080P and are therefore optimal for fast printing, whereas OC5648 can do 30FPS@1080p.
+IMX258 can do 60FPS@1080P and are therefore optimal for fast printing, whereas OV5648 can do 30FPS@1080p.
 
 (Camera Picture)
 
