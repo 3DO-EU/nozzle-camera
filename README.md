@@ -67,10 +67,10 @@ Beta Testers
 ## Where to buy
 EU
 
-<a href="https://3do.eu/"><img src="https://3do.eu/img/logo-1645171273.jpg" width="250" ></a>
+<a alt="3DO" href="https://3do.eu/"><img src="https://3do.eu/img/logo-1645171273.jpg" width="200" ></a>
 
 USA 
 
-<a href="https://www.fabreeko.com/"><img src="https://cdn.shopify.com/s/files/1/0266/5001/7990/files/Fabreeko_Logo_ecf1536e-3074-4a0e-9306-87ca89f1abbd_320x.png" width="250" ></a>
+<a alt="Fabreeko" href="https://www.fabreeko.com/"><img src="https://cdn.shopify.com/s/files/1/0266/5001/7990/files/Fabreeko_Logo_ecf1536e-3074-4a0e-9306-87ca89f1abbd_320x.png" width="200" ></a>
 
-<a href="https://kb-3d.com/"><img src="https://kb-3d.com/store/img/kb-3d-logo-1673465361.jpg" width="250" ></a>
+<a alt="KB3D" href="https://kb-3d.com/"><img src="https://kb-3d.com/store/img/kb-3d-logo-1673465361.jpg" width="200" ></a>
