@@ -22,6 +22,11 @@ IMX258 can do 60FPS@1080P and are therefore optimal for fast printing, whereas O
 | FPC length              | 25cm                 | 25cm          |
 | Operating temperature** | -20°C TO 60°C        | -20°C TO 60°C |
 | Storage temperature     | -40°C TO 80°C        | -40°C TO 80°C |
+
+## Folders
+- printers  printers (mounts for different printers)
+- hardware (CAD files to help design printer mounts)
+
 ## Software
 The camera works as a standard UVC web camera and is therefore compatible with Linux, Windows, and Mac.
 For streaming, we recommend using [mainsail](https://github.com/mainsail-crew/mainsail) + [crowsnest](https://github.com/mainsail-crew/crowsnest). 
