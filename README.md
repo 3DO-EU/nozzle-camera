@@ -37,6 +37,9 @@ We decided on having 25cm between the camera and PCB for more flexibility on fut
 
 Yes, FPC is flexible and can be bent, if you want to fold it (180deg) we recommend doing this max one time in the same spot, or else you risk braking the lanes inside FPC.
 
+Example of folding FPC
+![plot](./images/FPC_BEND.jpg | width=100)
+
 ## Contributors that made this project possible
 CAD Design & Testing
 -	Olof Ogland (Known from Bondtech)
