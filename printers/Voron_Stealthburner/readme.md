@@ -14,6 +14,7 @@
 Camera PCB can be mounted in front of the extruder using VHB tape. (Only tested with LGX Lite extruder)
 
 It's easiest if you route FPC before led/fan wires.
+
 <img src="./images/FPC_INTERNAL.jpg "  width="40%">
 
 
