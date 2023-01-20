@@ -53,7 +53,7 @@ Example of folding FPC
 CAD Design & Testing
 -	Olof Ogland (Known from Bondtech)
 -	Kenneth Munkholt (VZ Community)
--	Dennis Jespersen (From RatRig Comunnity)
+-	Dennis Jespersen (From RatRig Community)
 
 Software Development & Testing
 -	Meteyou (Mainsail founder)
@@ -61,8 +61,8 @@ Software Development & Testing
 -	Rogerlz(Crowsnest Tester)
 	
 Beta Testers
--	Mitsuma (From RatRig Comunnity)
--	Joao Barros (From RatRig Comunnity)
+-	Mitsuma (From RatRig Community)
+-	Joao Barros (From RatRig Community)
 
 ## Where to buy
 EU
