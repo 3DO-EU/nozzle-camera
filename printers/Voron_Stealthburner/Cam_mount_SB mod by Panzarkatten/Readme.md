@@ -26,20 +26,20 @@ The camera mount was not altered to retain the function.
 ## V-Edition
 ------
 ### With one color
-<img src="./Images/V_Solid_Front_view.png"  width="20%">
-<img src="./Images/V_Solid_Quarter_view.png"  width="20%">
+<img src="./Images/V_Solid_Front_view.png"  width="20%" align="left">
+<img src="./Images/V_Solid_Quarter_view.png"  width="20%" >
 
 ### With color change
-<img src="./Images/V_Color_Front_view.png"  width="20%">
-<img src="./Images/V_Color_Quarter_view.png"  width="20%">
+<img src="./Images/V_Color_Front_view.png"  width="20%" align="left">
+<img src="./Images/V_Color_Quarter_view.png"  width="20%" align="left">
 <img src="./Images/Cam_mount_SB-V_photo.jpg"  width="25%">
 
 ### With stroke
-<img src="./Images/V_Stroke_Front_view.png"  width="20%">
+<img src="./Images/V_Stroke_Front_view.png"  width="20%" align="left">
 <img src="./Images/V_Stroke_Quarter_view.png"  width="20%">
 
-<img src="./Images/V_Stroke_Front_view_v2.png"  width="20%">
-<img src="./Images/V_Stroke_Quarter_view_v2.png"  width="20%">
+<img src="./Images/V_Stroke_Front_view_v2.png"  width="20%" align="left">
+<img src="./Images/V_Stroke_Quarter_view_v2.png"  width="20%" align="left">
 <img src="./Images/Cam_mount_SB-V_Stroke_photo.jpg"  width="23%">
 
 *Note that V-Stroke is a separate file*
@@ -49,16 +49,16 @@ The camera mount was not altered to retain the function.
 Similar to the V-Edition but with a grille pattern which also lets air in to the camera.
 
 ### With one color
-<img src="./Images/Grille_Solid_Front_view.png"  width="20%">
+<img src="./Images/Grille_Solid_Front_view.png"  width="20%" align="left">
 <img src="./Images/Grille_Solid_Quarter_view.png"  width="20%">
 
 ### With color change
-<img src="./Images/Grille_Color_Front_view.png"  width="20%">
+<img src="./Images/Grille_Color_Front_view.png"  width="20%" align="left">
 <img src="./Images/Grille_Color_Quarter_view.png"  width="20%">
 
 ### With stroke
-<img src="./Images/Grille_Stroke_Front_view.png"  width="20%">
-<img src="./Images/Grille_Stroke_Quarter_view.png"  width="20%">
+<img src="./Images/Grille_Stroke_Front_view.png"  width="20%" align="left">
+<img src="./Images/Grille_Stroke_Quarter_view.png"  width="20%" align="left">
 <img src="./Images/Cam_mount_SB-Grille_Stroke_photo.jpg"  width="25%">
 
 ## Creator
