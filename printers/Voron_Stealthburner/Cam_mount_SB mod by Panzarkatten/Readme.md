@@ -21,26 +21,26 @@ Modded versions of the original design for the camera mount. Retains ventilation
 ------
 The camera mount was not altered to retain the function.
 
-<img src="images/Mount_view.png"  width="70%">
+<img src="./images/Mount_view.png"  width="70%">
 
 ## V-Edition
 ------
 ### With one color
-<img src="images/V_Solid_Front_view.png"  width="20%">
-<img src="images/V_Solid_Quarter_view.png"  width="20%">
+<img src="./images/V_Solid_Front_view.png"  width="20%">
+<img src="./images/V_Solid_Quarter_view.png"  width="20%">
 
 ### With color change
-<img src="images/V_Color_Front_view.png"  width="20%">
-<img src="images/V_Color_Quarter_view.png"  width="20%">
-<img src="images/Cam_mount_SB-V_photo.jpg"  width="25%">
+<img src="./images/V_Color_Front_view.png"  width="20%">
+<img src="./images/V_Color_Quarter_view.png"  width="20%">
+<img src="./images/Cam_mount_SB-V_photo.jpg"  width="25%">
 
 ### With stroke
-<img src="images/V_Stroke_Front_view.png"  width="20%">
-<img src="images/V_Stroke_Quarter_view.png"  width="20%">
+<img src="./images/V_Stroke_Front_view.png"  width="20%">
+<img src="./images/V_Stroke_Quarter_view.png"  width="20%">
 
-<img src="images/V_Stroke_Front_view_v2.png"  width="20%">
-<img src="images/V_Stroke_Quarter_view_v2.png"  width="20%">
-<img src="images/Cam_mount_SB-V_Stroke_photo.jpg"  width="23%">
+<img src="./images/V_Stroke_Front_view_v2.png"  width="20%">
+<img src="./images/V_Stroke_Quarter_view_v2.png"  width="20%">
+<img src="./images/Cam_mount_SB-V_Stroke_photo.jpg"  width="23%">
 
 *Note that V-Stroke is a separate file*
 
@@ -49,17 +49,17 @@ The camera mount was not altered to retain the function.
 Similar to the V-Edition but with a grille pattern which also lets air in to the camera.
 
 ### With one color
-<img src="images/Grille_Solid_Front_view.png"  width="20%">
-<img src="images/Grille_Solid_Quarter_view.png"  width="20%">
+<img src="./images/Grille_Solid_Front_view.png"  width="20%">
+<img src="./images/Grille_Solid_Quarter_view.png"  width="20%">
 
 ### With color change
-<img src="images/Grille_Color_Front_view.png"  width="20%">
-<img src="images/Grille_Color_Quarter_view.png"  width="20%">
+<img src="./images/Grille_Color_Front_view.png"  width="20%">
+<img src="./images/Grille_Color_Quarter_view.png"  width="20%">
 
 ### With stroke
-<img src="images/Grille_Stroke_Front_view.png"  width="20%">
-<img src="images/Grille_Stroke_Quarter_view.png"  width="20%">
-<img src="images/Cam_mount_SB-Grille_Stroke_photo.jpg"  width="25%">
+<img src="./images/Grille_Stroke_Front_view.png"  width="20%">
+<img src="./images/Grille_Stroke_Quarter_view.png"  width="20%">
+<img src="./images/Cam_mount_SB-Grille_Stroke_photo.jpg"  width="25%">
 
 ## Creator
 Panzarkatten#0070 @ Discord
