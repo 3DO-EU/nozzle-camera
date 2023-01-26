@@ -17,7 +17,7 @@ It's easiest if you route FPC before led/fan wires.
 
 <img src="./images/FPC_INTERNAL.jpg "  width="40%">
 
-##WARNING
+## WARNING
 Do not pull to hard on the FPC, you may risk to rupture it.
 
 <img src="./images/FPC_TORN.jpg "  width="30%">
