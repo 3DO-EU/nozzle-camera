@@ -61,5 +61,12 @@ Similar to the V-Edition but with a grille pattern which also lets air in to the
 <img src="./Images/Grille_Stroke_Quarter_view.png"  width="20%" align="left">
 <img src="./Images/Cam_mount_SB-Grille_Stroke_photo.jpg"  width="25%">
 
+## HEX Edition
+------
+A version based on <a href="https://www.printables.com/model/225153-voron-stealthburner-face">3DP-MAMSIH</a>'s design with a hex pattern on the front face. Small air intake added on the face below the front to keep the front clean. 
+
+<img src="./Images/Cam_mount_SB_Hex_bottom_intake_front.png"  width="20%" align="left">
+<img src="./Images/Cam_mount_SB_Hex_bottom_intake_quarter.png"  width="20%">
+
 ## Creator
 Panzarkatten#0070 @ Discord
