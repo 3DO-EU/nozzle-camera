@@ -6,3 +6,6 @@
 - the rest is from standard EVA setup
 
 **FYI this is only for the volcano style setup and 4028 fan**
+
+# Credits
+Design by Dennis Jespersen (Dj_Designs)
