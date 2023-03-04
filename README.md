@@ -7,21 +7,20 @@ We ended up making this.
 -	Fixed focus lens (AF lenses start to shake a loose focus when moving fast)
 -	Custom FEP+Silicone USB cable, as we couldn’t find any high temp flexible USB cables on the market.
 -	Custom SK6812 WWCW LED, we wanted as much light as possible while keeping the SK6812 protocol, therefore we ended up making our LEDs similar to RGBW just with only white diodes inside.
--	Two versions having different price points (IMX258 and OV5648)
-IMX258 can do 60FPS@1080P and are therefore optimal for fast printing, whereas OV5648 can do 30FPS@1080p.
+
 
 <img src="./images/KIT.jpg "  width="50%">
 
-|                         | 4K (Sony IMX258)     | FHD (OV5648)  |
-|-------------------------|----------------------|---------------|
-| Sensor Size             | 1/3.06               | 01/4       |
-| Mega-Pixel              | 13MP                 | 5MP           |
-| Frame Rate              | 30FPS@4K 60FPS@1080P | 30FPS@1080P   |
-| Lens type*              | Fixed Focus          | Fixed Focus   |
-| FoV                     | 80Deg                | 82.7Deg       |
-| FPC length              | 25cm                 | 25cm          |
-| Operating temperature** | -20°C TO 60°C        | -20°C TO 60°C |
-| Storage temperature     | -40°C TO 80°C        | -40°C TO 80°C |
+|                         | 4K (Sony IMX258)     |
+|-------------------------|----------------------|
+| Sensor Size             | 1/3.06               |
+| Mega-Pixel              | 13MP                 |
+| Frame Rate              | 30FPS@4K 60FPS@1080P |
+| Lens type*              | Fixed Focus          |
+| FoV                     | 80Deg                |
+| FPC length              | 25cm                 |
+| Operating temperature** | -20°C TO 60°C        |
+| Storage temperature     | -40°C TO 80°C        |
 
 ## Video
 [![3DO Nozzle Camera teaser](https://img.youtube.com/vi/BjG8rhLlGIU/0.jpg)](https://www.youtube.com/watch?v=BjG8rhLlGIU)
