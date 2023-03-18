@@ -65,8 +65,9 @@ Beta Testers
 
 ## Recipient / Nonparticipant
 In that start we had one main CAD devolper (RayKn#2312 Raymond Knetemann) 
-He said he would be more dedicated to the project if he got some kind of payment, as we wanted to fast-track the project we agreed..
-We made a deal on a LDO Voron v0.1 for him making us this mounts 
+He said he would be more dedicated to the project if he got some kind of payment, as we wanted to fast-track the project we agreed...
+We made a deal on an LDO Voron v0.1 for him making us these mounts 
+
 -	Voron SB
 -	RatRig Eva 3.x
 -	Voron AB
@@ -74,10 +75,10 @@ We made a deal on a LDO Voron v0.1 for him making us this mounts
 -	Prusa MK3S
 -	Ender 3
 
-Sadly after Raymond recived a voron from us hes dedication to the project went the oppesit way, and untill now we havent recived anything from him.
-We asked him to send the printer back or pay for it, he refused both and we are now working on debt collection.
+Sadly after Raymond received a voron from us his dedication to the project went the opposite way, and until now we haven't received anything from him.
+We asked him to send the printer back or pay for it, but he refused both and we are now working on debt collection.
 
-This is the story in short, Raymond dealyed this project alot. But a huge thanks to Olof Ogland from bondtech that steped in and made a Voron mount in no time, for our release.
+This is the story, in short, Raymond delayed this project a lot. But a huge thanks to Olof Ogland from bondtech that stepped in and made a Voron mount in no time, for our release.
 
 ## Where to buy
 EU
