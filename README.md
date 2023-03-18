@@ -73,6 +73,7 @@ We made a deal on a LDO Voron v0.1 for him making us this mounts
 -	Voron V0.1
 -	Prusa MK3S
 -	Ender 3
+
 Sadly after Raymond recived a voron from us hes dedication to the project went the oppesit way, and untill now we havent recived anything from him.
 We asked him to send the printer back or pay for it, he refused both and we are now working on debt collection.
 
