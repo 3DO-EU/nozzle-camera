@@ -17,12 +17,6 @@ It's easiest if you route FPC before led/fan wires.
 
 <img src="./images/FPC_INTERNAL.jpg "  width="40%">
 
-## WARNING
-Do not pull to hard on the FPC, you may risk to rupture it.
-
-<img src="./images/FPC_DONT_PULL.jpg"  width="25%" align="left">
-<img src="./images/FPC_TORN.jpg"  width="25%">
-
 
 # FPC Routing external
 Camera PCB can be mounted using the Stealth burner adxl mount (PCB_mount_SB.stl)
