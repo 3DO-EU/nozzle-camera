@@ -27,10 +27,9 @@ The camera mount was not altered to retain the function.
 
 Camera PCB fittet inside the stealthburner cowling together with the 2 piece hartk pcb. This required the CW2 main body to be modded slightly to give room for the usb-cable.
 
-<img src="./Images/Pcb_mount_in_SB.jpg"  width="20%">
+<img src="./Images/Pcb_mount_in_SB.jpg"  width="20%" align="left">
 <img src="./Images/CW2_main_body_mod.png"  width="30%">
 
- 
 
 ## V-Edition
 ------
@@ -74,16 +73,11 @@ Similar to the V-Edition but with a grille pattern which also lets air in to the
 ------
 A version based on <a href="https://www.printables.com/model/225153-voron-stealthburner-face">3DP-MAMSIH</a>'s design with a hex pattern on the front face. Small air intake added on the face below the front to keep the front clean. 
 
-<img src="./Images/Cam_mount_SB-HEX_front_view.png"  width="20%" align="left">
-<img src="./Images/Cam_mount_SB-HEX_quarter_view.png"  width="20%">
+### Renders
+<img src="./Images/Cam_mount_SB-HEX.png"  width="47%">
+<img src="./Images/Cam_mount_SB_UHF_HEX.png"  width="47%">
 
-Also available in UHF version
-
-<img src="./Images/Cam_mount_SB_UHF-HEX_front_view.png"  width="20%" align="left">
-<img src="./Images/Cam_mount_SB_UHF-HEX_quarter_view.png"  width="20%">
-
-Photos
-
+### Photos
 <img src="./Images/Cam_mount_SB-HEX_photo01.jpg"  width="25%" align="left">
 <img src="./Images/Cam_mount_SB-HEX_photo02.jpg"  width="20%">
 
