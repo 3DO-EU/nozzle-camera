@@ -79,9 +79,11 @@ A version based on <a href="https://www.printables.com/model/225153-voron-stealt
 <img src="./Images/Cam_mount_SB-HEX.png" width="47%">
 <img src="./Images/Cam_mount_SB_UHF_HEX.png" width="47%">
 
+
 ### Photos
 <img src="./Images/Cam_mount_SB-HEX_photo01.jpg" width="25%" align="left">
 <img src="./Images/Cam_mount_SB-HEX_photo02.jpg" width="20%">
+
 
 <img src="./Images/Cam_mount_SB_Hex_photo03_no_text.jpg" width="47%">
 
