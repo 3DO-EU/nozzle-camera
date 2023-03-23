@@ -23,6 +23,15 @@ The camera mount was not altered to retain the function.
 
 <img src="./Images/Mount_view.png"  width="70%">
 
+### PCB mount option
+
+Camera PCB fittet inside the stealthburner cowling together with the 2 piece hartk pcb. This required the CW2 main body to be modded slightly to give room for the usb-cable.
+
+<img src="./Images/Pcb_mount_in_SB.jpg"  width="20%">
+<img src="./Images/CW2_main_body_mod.png"  width="30%">
+
+ 
+
 ## V-Edition
 ------
 ### With one color
@@ -72,6 +81,13 @@ Also available in UHF version
 
 <img src="./Images/Cam_mount_SB_UHF-HEX_front_view.png"  width="20%" align="left">
 <img src="./Images/Cam_mount_SB_UHF-HEX_quarter_view.png"  width="20%">
+
+Photos
+
+<img src="./Images/Cam_mount_SB-HEX_photo01.jpg"  width="25%" align="left">
+<img src="./Images/Cam_mount_SB-HEX_photo02.jpg"  width="20%">
+
+<img src="./Images/Cam_mount_SB_Hex_photo03_no_text.jpg"  width="47%">
 
 ## Creator
 Panzarkatten#0070 @ Discord
