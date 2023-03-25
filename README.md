@@ -9,7 +9,7 @@ We ended up making this.
 -	Custom SK6812 WWCW LED, we wanted as much light as possible while keeping the SK6812 protocol, therefore we ended up making our LEDs similar to RGBW just with only white diodes inside.
 
 
-<img src="./images/KIT.jpg "  width="50%">
+<img src="./images/NC_KIT.jpg "  width="50%">
 
 |                         | 4K (Sony IMX258)     |
 |-------------------------|----------------------|
