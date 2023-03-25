@@ -29,6 +29,23 @@ We ended up making this.
 - printers  printers (mounts for different printers)
 - hardware (CAD files to help design printer mounts)
 
+## Pinout
+PCB uses a 5P 1.0mm pitch connector.
+| Pin No. | Function	 | Color		      |
+|---------|--------------|--------------------|
+| 1       | USB 5VDC     | Red		          |
+| 2       | Data -       | White		      |
+| 3       | Data +       | Green		      |
+| 4       | USB -VDC/GND | Black		      |
+| 5       | GND/Shield   | Black (heat shrink)|
+
+Wire no. 5 is an optional shield/drain wire, tho it will work without we recommend installing it.
+
+<img src="./images/pinout_usb2.png "  width="50%">
+<img src="./images/pinout_5p "  width="50%">
+
+
+
 ## Software
 The camera works as a standard UVC web camera and is therefore compatible with Linux, Windows, and Mac.
 For streaming, we recommend using [mainsail](https://github.com/mainsail-crew/mainsail) + [crowsnest](https://github.com/mainsail-crew/crowsnest). 
