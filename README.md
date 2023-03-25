@@ -44,6 +44,7 @@ Wire no. 5 is an optional shield/drain wire, tho it will work without we recomme
 <img src="./images/pinout_5p.png "  width="35%" align="left">
 <img src="./images/pinout_usb2.png "  width="35%"> 
 
+
 ## Software
 The camera works as a standard UVC web camera and is therefore compatible with Linux, Windows, and Mac.
 For streaming, we recommend using [mainsail](https://github.com/mainsail-crew/mainsail) + [crowsnest](https://github.com/mainsail-crew/crowsnest). 
