@@ -41,19 +41,8 @@ PCB uses a 5P 1.0mm pitch connector.
 
 Wire no. 5 is an optional shield/drain wire, tho it will work without we recommend installing it.
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img class="image-align-left" src="./images/pinout_usb2.png "  width="40%"> 
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img class="image-align-left" src="./images/pinout_5p.png "  width="40%">
-     </div>
-</div>
-
-
-
-
-
+<img src="./images/pinout_usb2.png "  width="50%" align="left"> 
+<img src="./images/pinout_5p.png "  width="50%">
 
 ## Software
 The camera works as a standard UVC web camera and is therefore compatible with Linux, Windows, and Mac.
