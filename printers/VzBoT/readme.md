@@ -12,7 +12,7 @@
 
 # Installation of the camera
 Start by getting the FPC approximately halfway through the slot in the camduct. Then proceed to push the cam in place – it takes a bit of force so be carefull. Afterwards pull the FPC all the way through the slot. Make sure not to pull too hard.
-<img src="./images/1.jpg" >
+<img src="./images/1.jpg" width="50%">
 Next up you need to pull the FPC through the slot in the CPAP upper duct. Make sure it is oriented correctly. Now connect the PCB tho the FPC.
 <img src="./images/2.jpg" >
 Now fold up the FPC so that you end up with something like this and use the four M2x10 screws to screw on both the PCB cover and PCB. Again make sure to use caution or else you might damage the FPC.
