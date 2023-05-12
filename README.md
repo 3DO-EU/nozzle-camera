@@ -82,7 +82,7 @@ Beta Testers
 
 
 ## Where to buy
-EU
+EU / UK
 
 <a alt="3DO" href="https://3do.eu/"><img src="https://3do.eu/img/logo-1645171273.jpg" width="200" ></a>
 
