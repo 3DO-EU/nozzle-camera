@@ -1,0 +1,1 @@
+https://www.printables.com/model/433537-3do-nozzle-cam-fan-mount-for-prusa-mini
