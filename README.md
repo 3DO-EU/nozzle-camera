@@ -4,7 +4,7 @@ After seeing a lot of cool nozzle camera videos with hacked-up endoscopes...
 We decided to make a real "Nozzle Camera" for 3D printers.
 We ended up making this.
 -	MIPI Camera with external USB webcam encoder (to make the camera as small as possible)
--	Fixed focus lens (AF lenses start to shake a loose focus when moving fast)
+-	Fixed focus lens (AF lenses start to shake and lose focus when moving fast)
 -	Custom FEP+Silicone USB cable, as we couldn’t find any high temp flexible USB cables on the market.
 -	Custom SK6812 WWCW LED, we wanted as much light as possible while keeping the SK6812 protocol, therefore we ended up making our LEDs similar to RGBW just with only white diodes inside.
 
