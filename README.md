@@ -20,6 +20,7 @@ We ended up making this.
 | FPC length              | 25cm                 |
 | Operating temperature** | -20°C TO 60°C        |
 | Storage temperature     | -40°C TO 80°C        |
+
 ***These frame rates represent what the camera can achieve when directly connected, such as in OBS Studio or the Windows webcam app.
 
 When streaming through Crowsnest on a Raspberry Pi or a similar device, two factors limit your performance: GPU power and bandwidth.
