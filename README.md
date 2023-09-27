@@ -14,11 +14,11 @@ We ended up making this.
 |-------------------------|----------------------|
 | Sensor Size             | 1/3.06               |
 | Mega-Pixel              | 13MP                 |
-| Frame Rate              | 30FPS@4K 60FPS@1080P* |
+| Frame Rate*              | 30FPS@4K 60FPS@1080P* |
 | Lens type*              | Fixed Focus          |
 | FoV                     | 80Deg                |
 | FPC length              | 25cm                 |
-| Operating temperature** | -20°C TO 60°C        |
+| Operating temperature** | -20°C TO 65°C        |
 | Storage temperature     | -40°C TO 80°C        |
 
 _*These frame rates represent what the camera can achieve when directly connected, such as in OBS Studio or the Windows webcam app._
