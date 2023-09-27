@@ -23,11 +23,11 @@ We ended up making this.
 
 _*These frame rates represent what the camera can achieve when directly connected, such as in OBS Studio or the Windows webcam app._
 
-When streaming through Crowsnest on a Raspberry Pi or a similar device, two factors limit your performance: GPU power and bandwidth.
+_When streaming through Crowsnest on a Raspberry Pi or a similar device, two factors limit your performance: GPU power and bandwidth._
 
-The new version of Crowsnest supports WebRTC/H.264 streaming, significantly reducing bandwidth requirements, making it less of a concern. However, when using the WebRTC streaming function, your GPU's encoding capabilities become the limiting factor (For Raspberry Pi 4, the GPU is limited to 1080p at 38 FPS and cannot encode 4K).
+_The new version of Crowsnest supports WebRTC/H.264 streaming, significantly reducing bandwidth requirements, making it less of a concern. However, when using the WebRTC streaming function, your GPU's encoding capabilities become the limiting factor (For Raspberry Pi 4, the GPU is limited to 1080p at 38 FPS and cannot encode 4K)._
 
-If you opt for the MJPEG stream in Crowsnest, no encoding is necessary, eliminating GPU limitations. However, this method requires considerably more bandwidth, so your FPS will be restricted by the available network bandwidth (using an Ethernet cable instead of Wi-Fi is recommended)._
+_If you opt for the MJPEG stream in Crowsnest, no encoding is necessary, eliminating GPU limitations. However, this method requires considerably more bandwidth, so your FPS will be restricted by the available network bandwidth (using an Ethernet cable instead of Wi-Fi is recommended)._
 
 ## Video
 [![3DO Nozzle Camera teaser](https://img.youtube.com/vi/BjG8rhLlGIU/0.jpg)](https://www.youtube.com/watch?v=BjG8rhLlGIU)
