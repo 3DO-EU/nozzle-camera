@@ -1,6 +1,7 @@
 # 3DO NOZZLE CAMERA
 
-![Discord Shield](https://discordapp.com/api/guilds/1030739969272201236/widget.png?style=shield)
+[![3DO Discord Server](https://discordapp.com/api/guilds/1030739969272201236/widget.png?style=banner2)]( https://discord.com/invite/Ss3q9ccwDq)
+
 
 After seeing a lot of cool nozzle camera videos with hacked-up endoscopes...
 We decided to make a real "Nozzle Camera" for 3D printers.
