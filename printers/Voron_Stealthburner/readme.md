@@ -21,7 +21,7 @@ It's easiest if you route FPC before led/fan wires.
 
 - Option 2 - To the right  
 <img src="./images/Pcb_mount_in_SB.jpg "  width="30%">  
-More images [here](./images/FPC-routing/fpcrouting.md)
+More images <a href="./images/FPC-routing/fpcrouting.md">here</a>
 
 ### CW2 main body with cutout
 To make some extra room for the usb cable when using the 2-piece hartk PCB you can use this modified model with a cutout for it. The model with "_updated" in the name was updated for the July 11th 2023 update of the CW2. 
