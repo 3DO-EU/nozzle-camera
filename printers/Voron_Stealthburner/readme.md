@@ -1,21 +1,33 @@
 # Files for common hotends
-- Cam_mount_SB
-- PCB_mount_SB
+[Standard models](./STLs/Standard/)
 
 # Files for extended hotends (Rapido UHF / Mosquito Magnum Plus /..)
-- Cam_mount_SB-Magnum_plus-UHF
-- PCB_mount_SB_Magnum_plus-UHF
+[UHF models](./STLs/UHF/)
 
+# Other files like PCB mounts etc.
+[Misc models](./STLs/Misc/)
 
-# Picture
-<img src="./images/SB_UHF.jpg "  width="50%">
+# Pictures
+<img src="./images/SB_UHF.jpg "  width="50%"><img src="./images/Cam_mount_SB-HEX_photo01.jpg "  width="25.1%">  
+More pictures can be found in the [Showroom](./images/Showroom/showroom.md)
 
 # FPC Routing internal
 Camera PCB can be mounted in front of the extruder using VHB tape. (Only tested with LGX Lite extruder)
 
 It's easiest if you route FPC before led/fan wires.
 
+- Option 1 - To the left  
 <img src="./images/FPC_INTERNAL.jpg "  width="40%">
+
+- Option 2 - To the right  
+<img src="./images/Pcb_mount_in_SB.jpg "  width="30%">  
+More images [here](./images/FPC-routing/fpcrouting.md)
+
+### CW2 main body with cutout
+To make some extra room for the usb cable when using the 2-piece hartk PCB you can use this modified model with a cutout for it. The model with "_updated" in the name was updated for the July 11th 2023 update of the CW2. 
+
+<img src="./images/CW2_main_body_mod.png" width="30%" />
+
 
 ## WARNING
 Do not pull to hard on the FPC, you may risk to rupture it.
@@ -23,11 +35,20 @@ Do not pull to hard on the FPC, you may risk to rupture it.
 <img src="./images/FPC_DONT_PULL.jpg"  width="25%" align="left">
 <img src="./images/FPC_TORN.jpg"  width="25%">
 
-
 # FPC Routing external
 Camera PCB can be mounted using the Stealth burner adxl mount (PCB_mount_SB.stl)
 
-<img src="./images/FPC_EXTERNAL.jpg "  width="30%">
+<img src="./images/FPC_EXTERNAL.jpg "  width="40%">
+
+# Printing instructions
+ - Use normal Voron printing guidelines
+    - Material: ABS
+    - Layer height: 0.2mm
+    - Extrusion width: 0.4mm
+    - Infill type: Grid, Gyriod, Honeycomb, Triangle or Cube
+    - Infill percentage: 40%
+    - Wall count: 4
+    - Solid top/bottom layers: 5
 
 
 # Software
@@ -56,4 +77,5 @@ If necessary, more details about configuing crowsnest can be found here: https:/
 
 
 # Credits
-Design by Olof Ogland
+Initial design by Olof Ogland  
+Mods by Panzarkatten
