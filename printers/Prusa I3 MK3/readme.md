@@ -7,7 +7,8 @@ https://www.printables.com/de/model/427054-3do-nozzle-camera-mount-for-prusa-i3-
 These are the improvements:
 Now with better light (3W pearl LED) and improved camera angle. New camera housing
 
-    I recently upgraded my former model (https://www.printables.com/de/model/427054-3do-nozzle-camera-mount-for-prusa-i3-mk3s) of the gorgeous 3DO HiRes Nozzlecam with Sony video chip (https://3do.eu/nozzle-camera/763-3do-nozzle-camera-kit-sony-4k.html).
+    
+I recently upgraded my former model (https://www.printables.com/de/model/427054-3do-nozzle-camera-mount-for-prusa-i3-mk3s) of the gorgeous 3DO HiRes Nozzlecam with Sony video chip (https://3do.dk/3do-camera/2681-1913-3do-nozzle-camera-kit-v2-sony-4k-for-3d-printers.html).
 
 These are the improvements:
 • Changed camera angle to center nozzle in picture
